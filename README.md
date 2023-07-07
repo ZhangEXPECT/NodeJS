@@ -1,8 +1,8 @@
 Nodejs+Express+MongoDB
 
 #安装依赖
-#npm i 
-#注意mongoose与MongoDB的版本对应
+npm i 
+注意mongoose与MongoDB的版本对应
 
 #项目运行
 npm start 
