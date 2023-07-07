@@ -1,0 +1,29 @@
+{
+  "name": "accounts",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon ./bin/www",
+    "server": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "lowdb": "^1.0.0",
+    "md5": "^2.3.0",
+    "moment": "^2.29.4",
+    "mongoose": "^7.3.1",
+    "morgan": "~1.9.1",
+    "shortid": "^2.2.16"
+  },
+  "apidoc": {
+    "name": "接口文档0.1.0",
+    "version": "0.1.0",
+    "description": "短视频及相关服务",
+    "title": "Node微服务后台接口",
+    "url": "https://51y79554a2.oicp.vip"
+  }
+}
